@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sadak Halil(Sandi)
 - 👀 I’m interested in people delivering value via technology
-- 🌱 I’m currently learning full-stack web development
+- 🌱 I’m currently learning full-stack web development via www.theodinproject.com
 - 📫 How to reach me: s.halil%yah00.c0m
 
 <!---
